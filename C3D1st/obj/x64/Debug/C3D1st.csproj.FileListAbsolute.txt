@@ -1,0 +1,13 @@
+E:\P_Data\Civil 3D API\Alignment\C3D1st\C3D1st\bin\x64\Debug\C3D1st.dll
+E:\P_Data\Civil 3D API\Alignment\C3D1st\C3D1st\obj\x64\Debug\C3D1st.csproj.AssemblyReference.cache
+E:\P_Data\Civil 3D API\Alignment\C3D1st\C3D1st\obj\x64\Debug\View\Window1.g.cs
+E:\P_Data\Civil 3D API\Alignment\C3D1st\C3D1st\obj\x64\Debug\C3D1st_MarkupCompile.cache
+E:\P_Data\Civil 3D API\Alignment\C3D1st\C3D1st\obj\x64\Debug\C3D1st_MarkupCompile.lref
+E:\P_Data\Civil 3D API\Alignment\C3D1st\C3D1st\obj\x64\Debug\View\Window1.baml
+E:\P_Data\Civil 3D API\Alignment\C3D1st\C3D1st\obj\x64\Debug\C3D1st.g.resources
+E:\P_Data\Civil 3D API\Alignment\C3D1st\C3D1st\obj\x64\Debug\C3D1st.Properties.Resources.resources
+E:\P_Data\Civil 3D API\Alignment\C3D1st\C3D1st\obj\x64\Debug\C3D1st.csproj.GenerateResource.cache
+E:\P_Data\Civil 3D API\Alignment\C3D1st\C3D1st\obj\x64\Debug\C3D1st.csproj.CoreCompileInputs.cache
+E:\P_Data\Civil 3D API\Alignment\C3D1st\C3D1st\obj\x64\Debug\C3D1st.dll
+E:\P_Data\Civil 3D API\Alignment\C3D1st\C3D1st\obj\x64\Debug\C3D1st.pdb
+E:\P_Data\Civil 3D API\Alignment\C3D1st\C3D1st\bin\x64\Debug\C3D1st.pdb
